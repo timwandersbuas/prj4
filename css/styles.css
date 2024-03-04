@@ -11,6 +11,12 @@ body {
 	background-color: #f8f8fc;
 }
 
+.centurystyle {
+	font: "Century Gothic";
+	color: white;
+	text-align: left;
+	font-style: normal;
+}
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
