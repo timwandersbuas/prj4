@@ -12,13 +12,6 @@ body {
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
-.centurystyle {
-    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-    color: black;
-    text-align: left;
-    font-style: normal;
-}
-
 .resume-header {
     background-color: #DF6C5B;
 }
@@ -54,4 +47,8 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+.tim{
+	font-family: "Lato", sans-serif;
 }
