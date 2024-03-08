@@ -11,6 +11,10 @@ body {
 	background-color: #f8f8fc;
 }
 
+    body,td,th {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 .resume-header {
     background-color: #DF6C5B;
@@ -50,5 +54,5 @@ body {
 }
 
 .tim{
-	font-family: "Lato", sans-serif;
+	font-family: "Oswald", sans-serif;
 }
